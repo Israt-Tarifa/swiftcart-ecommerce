@@ -17,6 +17,7 @@ map() → returns a new array
 forEach() → returns undefined
 3) What is the difference between == and ===?
 Answer: The difference between == and === is:
+                   
                     == → compares value only (type can be different)
                     === → compares value and type (must be same)
 4) What is the significance of async/await in fetching API data?
