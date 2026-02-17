@@ -1,10 +1,4 @@
 # SwiftCart E-Commerce Project
-
-## 🔗 Project Links
-- **Live Link:** [এখানে আপনার লাইভ সাইটের লিঙ্ক দিন]
-- **GitHub Repository:** [এখানে আপনার গিটহাব রিপোজিটরি লিঙ্ক দিন]
-
-
 Assignment Questions:
 1) What is the difference between null and undefined?
 Answer:  Undefined means a variable is declared but value is not assigned.  On the other hand,null means a variable is intentionally given an empty value.
