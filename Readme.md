@@ -6,20 +6,15 @@ Answer:  Undefined means a variable is declared but value is not assigned.  On t
 Answer:
 Use of map() in JavaScript:
                  1.map() creates a new array
-
                  2.It transforms each element
 
 Use of forEach():
-
                 1.forEach() is used to loop
-
                 2.It does not return a new array
 
-Difference between map() & foreach():
-
-                 -> map() → returns a new array
-
-                 -> forEach() → returns undefined
+Difference between map() & foreach(): 
+map() → returns a new array
+forEach() → returns undefined
 3) What is the difference between == and ===?
 Answer: The difference between == and === is:
                     == → compares value only (type can be different)
