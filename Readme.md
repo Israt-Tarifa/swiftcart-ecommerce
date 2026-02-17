@@ -4,8 +4,9 @@ Assignment Questions:
 
    
 Answer:  Undefined means a variable is declared but value is not assigned.  On the other hand,null means a variable is intentionally given an empty value.
-2) What is the use of the map() function in JavaScript? How is it different from forEach()?
 
+
+2) What is the use of the map() function in JavaScript? How is it different from forEach()?
 
 Answer:
 Use of map() in JavaScript:
@@ -19,8 +20,9 @@ Use of forEach():
 Difference between map() & foreach(): 
 map() → returns a new array
 forEach() → returns undefined
-3) What is the difference between == and ===?
 
+
+3) What is the difference between == and ===?
 
 Answer: The difference between == and === is:
                    
@@ -28,12 +30,13 @@ Answer: The difference between == and === is:
                     === → compares value and type (must be same)
 4) What is the significance of async/await in fetching API data?
 
-   
 Answer: The significance of async/await in fetching API data is: 
    (a)It makes asynchronous code look simple and readable
    (b)It helps avoid complex .then() chains
    (c)It makes error handling easier with try...catch
    (d)It waits for the API response before moving to the next line
+
+   
 5) Explain the concept of Scope in JavaScript (Global, Function, Block).
 
 Answer:
