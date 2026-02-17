@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.card img {
+    transition: transform 0.3s ease;
+}
+
+.card:hover img {
+    transform: scale(1.05);
+}
+
+.active-btn {
+    background-color: #570df8 !important;
+    color: white !important;
+}
