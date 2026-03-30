@@ -1,8 +1,5 @@
 # SwiftCart 🛒
 
-[![GitHub stars](https://img.shields.io/github/stars/username/SwiftCart?style=social)](https://github.com/username/SwiftCart)
-[![GitHub forks](https://img.shields.io/github/forks/username/SwiftCart?style=social)](https://github.com/username/SwiftCart)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/username/SwiftCart/blob/main/LICENSE)
 
 A modern **e-commerce platform** built with **JavaScript, HTML, and CSS**. SwiftCart demonstrates interactive shopping cart functionality and asynchronous API handling using `async/await`.
 
